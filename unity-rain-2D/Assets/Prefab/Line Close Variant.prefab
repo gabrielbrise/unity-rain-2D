@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &7956054426117281497
+--- !u!1001 &7391626805459444180
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 4283106395316037084, guid: 137ba171eb2c7324abcb0df1400fbaf3,
         type: 3}
       propertyPath: m_Name
-      value: Line Far Variant
+      value: Line Close Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4283106395316037059, guid: 137ba171eb2c7324abcb0df1400fbaf3,
         type: 3}
@@ -75,42 +75,12 @@ PrefabInstance:
     - target: {fileID: 4283106395316037058, guid: 137ba171eb2c7324abcb0df1400fbaf3,
         type: 3}
       propertyPath: m_Positions.Array.data[0].y
-      value: 0.2
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4283106395316037058, guid: 137ba171eb2c7324abcb0df1400fbaf3,
         type: 3}
       propertyPath: m_Parameters.widthMultiplier
-      value: 0.02
-      objectReference: {fileID: 0}
-    - target: {fileID: 4283106395316037058, guid: 137ba171eb2c7324abcb0df1400fbaf3,
-        type: 3}
-      propertyPath: m_Parameters.colorGradient.m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4283106395316037058, guid: 137ba171eb2c7324abcb0df1400fbaf3,
-        type: 3}
-      propertyPath: m_Parameters.colorGradient.ctime0
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4283106395316037058, guid: 137ba171eb2c7324abcb0df1400fbaf3,
-        type: 3}
-      propertyPath: m_Parameters.colorGradient.key1.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4283106395316037058, guid: 137ba171eb2c7324abcb0df1400fbaf3,
-        type: 3}
-      propertyPath: m_Parameters.colorGradient.key1.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4283106395316037058, guid: 137ba171eb2c7324abcb0df1400fbaf3,
-        type: 3}
-      propertyPath: m_Parameters.colorGradient.key1.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4283106395316037056, guid: 137ba171eb2c7324abcb0df1400fbaf3,
-        type: 3}
-      propertyPath: m_GravityScale
-      value: 2
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 137ba171eb2c7324abcb0df1400fbaf3, type: 3}
