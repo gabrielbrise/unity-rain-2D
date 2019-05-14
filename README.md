@@ -3,7 +3,7 @@ Inspired by the Code Train Challenge - Purple Rain. I created my version of the 
 
 ![Unity Rain 2D Demo](example-rain.gif)
 
-The main files to read how the code works are [Line.cs](Purple_Rain/Assets/Scripts/Line.cs) and [Rain.cs](Purple_Rain/Assets/Scripts/Rain.cs)
+The main files to read how the code works are [Line.cs](unity-rain-2D/Assets/Scripts/Line.cs) and [Rain.cs](unity-rain-2D/Assets/Scripts/Rain.cs)
 
 
 The [Rain.unitypackage](Rain.unitypackage) file is the easiest way to import the project and check it inside Unity3D.
